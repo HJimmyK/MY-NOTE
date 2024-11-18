@@ -2,5 +2,6 @@ This is a note I wrote using Obsidian, which includes the complete Obsidian libr
 This is for learning purposes only and has no other purpose or profit. 
 If you like it, I would also be very grateful.
 
-## note
-_obsidian is my .obsidian file in Obsidian 
+### note
+1. _obsidian file is my .obsidian file in Obsidian.
+2. You are strongly recommended to use Obsidian to read my notes for a reading experience that is closer to mine. My obsidian styles are all in the _obsidian folder, as emphasized in the first point.
