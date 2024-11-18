@@ -1,0 +1,23 @@
+{
+  "interfaceFontFamily": "仿宋,Times New Roman",
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "Times New Roman,仿宋",
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "正文旁注",
+    "侧边栏旁注",
+    "代码行",
+    "代码换行",
+    "表格优化",
+    "段落首行缩进",
+    "文内旁注",
+    "图片居中",
+    "文外旁注",
+    "预览模式优化-空白行-行间距",
+    "AnuExtendTheme",
+    "extended-colorschemes"
+  ],
+  "baseFontSize": 16,
+  "cssTheme": "Blue Topaz"
+}

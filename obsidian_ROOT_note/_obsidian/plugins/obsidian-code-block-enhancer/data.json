@@ -1,0 +1,15 @@
+{
+  "excludeLangs": [
+    "todoist"
+  ],
+  "useContextMenu": true,
+  "showLineNumber": false,
+  "linenumFontColor": "rgba(255, 192, 203, 0.7)",
+  "linenumHighlightColor": "rgba(255, 192, 203, 0.7)",
+  "showLangName": true,
+  "showCollapseBtn": true,
+  "showCodeSnap": true,
+  "codeFontSize": "16px",
+  "linenumHoverMode": "Highlight",
+  "linenumClickMode": "Highlight"
+}

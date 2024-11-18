@@ -1,0 +1,18 @@
+{
+  "sidenote-callout@@top-sidenote-callout-title": true,
+  "sidenote-callout@@top-left-sidenote-callout-title-position": "l-center-callout-title",
+  "sidenote-callout@@top-right-sidenote-callout-title-position": "r-center-callout-title",
+  "sidenote-callout@@sidenote-backgound": true,
+  "sidenote-callout@@hide-sidenote-callout-fold-icon": false,
+  "sidenote-callout@@aside-width": 200,
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
+  "Blue-Topaz-Codebox-Highlight@@code-line-number": false,
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false,
+  "blue-topaz-theme@@background-notebook-liked-switch": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-waves2",
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": true
+}
