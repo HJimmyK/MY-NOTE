@@ -5,3 +5,4 @@ If you like it, I would also be very grateful.
 ### note
 1. _obsidian file is my .obsidian file in Obsidian.
 2. You are strongly recommended to use Obsidian to read my notes for a reading experience that is closer to mine. My obsidian styles are all in the _obsidian folder, as emphasized in the first point.
+3. The appendix may include everything you need.
