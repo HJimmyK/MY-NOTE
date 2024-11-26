@@ -14,5 +14,6 @@
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
   "blue-topaz-theme@@background-image-settings-switch": true,
   "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-waves2",
-  "blue-topaz-theme@@toggle-nonoverlapping-bg": true
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": true,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight"
 }

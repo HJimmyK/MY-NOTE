@@ -334,7 +334,7 @@
       },
       "highlights": {
         "activeCodeblockLine": false,
-        "activeEditorLine": true
+        "activeEditorLine": false
       },
       "inline": {
         "syntaxHighlight": true,
@@ -394,7 +394,7 @@
           "titleTextColour": "--code-comment"
         },
         "advanced": {
-          "buttonColour": "#B2ABAB",
+          "buttonColour": "--text-muted",
           "buttonActiveColour": "--text-normal"
         }
       },
@@ -437,7 +437,7 @@
           "titleTextColour": "--code-comment"
         },
         "advanced": {
-          "buttonColour": "#B2ABAB",
+          "buttonColour": "--text-muted",
           "buttonActiveColour": "--text-normal"
         }
       }

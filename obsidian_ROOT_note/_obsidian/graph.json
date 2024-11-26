@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#枢纽",
+      "query": "tag:#二级根节点  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "",
+      "query": "file:数学",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 15153949
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 12.4054982817869,
   "linkStrength": 0.225085910652921,
   "linkDistance": 317,
-  "scale": 1.401982897776103,
+  "scale": 1.0000000000000022,
   "close": true
 }

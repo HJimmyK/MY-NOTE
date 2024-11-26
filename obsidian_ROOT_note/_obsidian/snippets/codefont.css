@@ -1,0 +1,130 @@
+/* 设置代码块的字体大小 */
+.markdown-preview-view code,
+.markdown-preview-view pre {
+    font-size: 11px;
+    /* 根据需要调整字体大小 */
+}
+
+/* 设置代码块的字体大小 */
+.markdown-preview-view code,
+.markdown-preview-view pre,
+.cm-hmd-codeblock {
+    font-size: 11px;
+    /* 根据需要调整字体大小 */
+}
+/*
+.cm-hmd-codeblock.cm-keyword {
+    color: #7bafea !important;
+}
+
+.cm-hmd-codeblock.cm-meta {
+    color: #3fb87a !important;
+}
+
+.cm-hmd-codeblock.cm-type {
+    color: #c9305c !important;
+}
+
+.cm-hmd-codeblock.cm-variable {
+    color: #eaefed !important;
+}
+
+.cm-hmd-codeblock.cm-number {
+    color: #c9305c !important;
+}
+
+.cm-comment.cm-hmd-codeblock {
+    color: #e7e186 !important;
+}
+
+.cm-hmd-codeblock.cm-string {
+    color: #e89e28 !important;
+}
+
+.cm-hmd-codeblock {
+    color: rgb(255, 255, 255)
+}
+
+.cm-hmd-codeblock.cm-operator {
+    color: coral;
+}
+
+.cm-def.cm-hmd-codeblock {
+    color: rgb(137, 220, 220) !important;
+}
+
+.cm-builtin.cm-hmd-codeblock {
+    color: rgb(157, 216, 143) !important;
+}
+*/
+
+/***************/
+/* 编辑模式下的代码块样式 */
+/*
+.cm-hmd-codeblock.cm-keyword,
+.markdown-preview-view code,
+.markdown-preview-view pre .cm-hmd-codeblock.cm-keyword {
+    color: #3e8ee9 !important;
+}
+
+
+.cm-hmd-codeblock.cm-meta,
+.markdown-preview-view code,
+.markdown-preview-view pre.cm-hmd-codeblock.cm-meta {
+    color: #3fb87a !important;
+}
+
+.cm-hmd-codeblock.cm-type,
+.markdown-preview-view code,
+.markdown-preview-view pre.cm-hmd-codeblock.cm-type {
+    color: #c9305c !important;
+}
+
+.cm-hmd-codeblock.cm-variable,
+.markdown-preview-view code,
+.markdown-preview-view pre.cm-hmd-codeblock.cm-variable {
+    color: #a7bfb5 !important;
+}
+
+.cm-hmd-codeblock.cm-number,
+.markdown-preview-view code,
+.markdown-preview-view pre.cm-hmd-codeblock.cm-number {
+    color: #ec542e !important;
+}
+
+.cm-comment.cm-hmd-codeblock,
+.markdown-preview-view code,
+.markdown-preview-view pre.cm-comment.cm-hmd-codeblock {
+    color: #1da50e !important;
+}
+
+.cm-hmd-codeblock.cm-string,
+.markdown-preview-view code,
+.markdown-preview-view pre.cm-hmd-codeblock.cm-string {
+    color: #e29210 !important;
+}
+
+.cm-hmd-codeblock,
+.markdown-preview-view code,
+.markdown-preview-view pre {
+    color: rgb(243, 185, 185)!important;
+}
+
+.cm-hmd-codeblock.cm-operator,
+.markdown-preview-view code,
+.markdown-preview-view pre.cm-hmd-codeblock.cm-operator {
+    color: rgb(226, 194, 183)!important;
+}
+
+.cm-def.cm-hmd-codeblock,
+.markdown-preview-view code,
+.markdown-preview-view pre.cm-def.cm-hmd-codeblock {
+    color: rgb(137, 220, 220) !important;
+}
+
+.cm-builtin.cm-hmd-codeblock,
+.markdown-preview-view code,
+.markdown-preview-view pre.cm-builtin.cm-hmd-codeblock {
+    color: rgb(157, 216, 143) !important;
+}
+*/

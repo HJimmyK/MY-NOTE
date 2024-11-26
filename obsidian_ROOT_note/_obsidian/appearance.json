@@ -13,10 +13,11 @@
     "段落首行缩进",
     "文内旁注",
     "图片居中",
-    "文外旁注",
     "预览模式优化-空白行-行间距",
     "AnuExtendTheme",
-    "extended-colorschemes"
+    "extended-colorschemes",
+    "行内代码",
+    "codefont"
   ],
   "baseFontSize": 16,
   "cssTheme": "Blue Topaz"

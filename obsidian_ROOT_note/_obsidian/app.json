@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "promptDelete": false,
   "attachmentFolderPath": "./appendix",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
 }
