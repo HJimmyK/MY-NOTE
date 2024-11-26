@@ -100,7 +100,7 @@ $$
 
 关于 $B$ 函数的乘积公式：
 $$
-B(x,y)=\dfrac{x+y}{xy}\prod_{k=1}^{\infty}\dfrac{1+\frac{x+y}{k}}{(1+\frac{x}{k})(1+\frac{y}{k})}
+B(x,y)=\dfrac{x+y}{xy}\prod_{k=1}^{\infty}\dfrac{1+\dfrac{x+y}{k}}{\left(1+\dfrac{x}{k}\right)\left(1+\dfrac{y}{k}\right)}
 $$
 
 我们利用 $\Gamma$ 函数的这个无穷乘积表达式：
@@ -111,7 +111,7 @@ $$
 $$
 \begin{align*}
 B(x,y)&=\dfrac{\Gamma(x)\Gamma(y)}{\Gamma(x+y)}\\
-&=\dfrac{\dfrac{1}{xy}\prod_{k=1}^{\infty}\left[\left(1+\dfrac{x}{k}\right)^{-1}\left(1+\dfrac 1n\right)^x\right]\left[\left(1+\dfrac{y}{k}\right)^{-1}\left(1+\dfrac 1n\right)^y\right]}{\dfrac{1}{x+y}\prod_{k=1}^{\infty}\left[\left(1+\dfrac{x+y}{k}\right)^{-1}\left(1+\dfrac 1n\right)^{x+y}\right]}\\
+&=\dfrac{\dfrac{1}{xy}\prod\limits_{k=1}^{\infty}\left[\left(1+\dfrac{x}{k}\right)^{-1}\left(1+\dfrac 1n\right)^x\right]\left[\left(1+\dfrac{y}{k}\right)^{-1}\left(1+\dfrac 1n\right)^y\right]}{\dfrac{1}{x+y}\prod\limits_{k=1}^{\infty}\left[\left(1+\dfrac{x+y}{k}\right)^{-1}\left(1+\dfrac 1n\right)^{x+y}\right]}\\
 &=\dfrac{x+y}{xy}\prod_{k=1}^{\infty}\dfrac{\left(1+\dfrac{x}{k}\right)^{-1}\left(1+\dfrac{y}{k}\right)^{-1}}{\left(1+\dfrac{x+y}{k}\right)^{-1}}\\
 &=\dfrac{x+y}{xy}\prod_{k=1}^{\infty}\dfrac{1+\dfrac{x+y}{k}}{\left(1+\dfrac{x}{k}\right)\left(1+\dfrac{y}{k}\right)}
 \end{align*}

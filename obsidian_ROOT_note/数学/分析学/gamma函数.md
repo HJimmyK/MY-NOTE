@@ -67,7 +67,7 @@ a_n & = \frac{1}{n!}\lim\limits_{t\to0}\frac{\text{d}^n}{\text{d}t^n}\int_0^1m^{
 $$
 容易使用分部积分，验证他是成立的。
 最后求极限，
->[!warning|aside-r] 一个小问题
+>[!warning|pz] 一个小问题
 >这里的极限是否能放入积分中其实还有问题的，不过这里只想单纯推导 $\Gamma$ 函数的形式，
 我们并不要求的那么严格。
 
@@ -75,11 +75,13 @@ $$
 \begin{align*}\Gamma(x)&=\lim\limits_{n\to\infty}n!a_nn^x\\&=\lim\limits_{n\to\infty}n!n^x\frac{1}{n!}\int_0^1(1-m)^nm^{x-1}\text{d}m\\&=\lim\limits_{n\to\infty}\int_0^1(1-m)^n(nm)^{x-1}\text{d}(nm)\\&=\lim\limits_{n\to\infty}\int_0^{\infty}(1-\frac tn)^n\cdot t^{x-1}\text{d}t\\&=\int_0^{\infty}t^{x-1}e^{-t}\text{d}t
 \end{align*}
 $$
-那么，最终，我们推导出了 $\Gamma$函数的积分形式：
+
+那么，最终，我们推导出了 $\Gamma$函数的积分形式： ^8f94ce
 $$
 \Gamma(x)=\int_0^{\infty}t^{x-1}e^{-t}\text{d}t
 $$
 
-^8f94ce
+
+
 ![[Pasted image 20241118164633.png]]
 # 一、定义
